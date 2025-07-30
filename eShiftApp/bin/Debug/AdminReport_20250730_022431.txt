@@ -1,0 +1,8 @@
+Total Customers: 3
+Total Jobs: 3
+Pending Jobs: 1
+Accepted Jobs: 0
+Declined Jobs: 2
+Total Loads: 1
+Total Transport Units: 3
+Total Products: 50
