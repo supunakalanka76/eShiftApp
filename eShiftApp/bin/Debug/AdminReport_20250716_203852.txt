@@ -1,7 +1,0 @@
-Total Customers: 2
-Total Jobs: 1
-Pending Jobs: 1
-Accepted Jobs: 0
-Declined Jobs: 0
-Total Loads: 0
-Total Transport Units: 0
