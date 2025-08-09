@@ -37,6 +37,10 @@ eShiftApp/
 ├── Database/
 │ └── DBHelper.cs # Database connection handler
 │
+├── Reports/ # Various reports for report generation part
+│ ├── JobsReport.rpt
+│ └── CustomersReport.rpt
+├
 ├── Properties/
 │ └── Resources.resx # UI assets and resources
 │
